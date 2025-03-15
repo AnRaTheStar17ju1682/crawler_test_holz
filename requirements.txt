@@ -1,0 +1,4 @@
+selenium
+aiosqlite
+aiogram
+pandas
