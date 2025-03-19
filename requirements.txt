@@ -2,3 +2,4 @@ selenium
 aiosqlite
 aiogram
 pandas
+openpyxl
